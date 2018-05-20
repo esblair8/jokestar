@@ -1,7 +1,7 @@
 # jokestar
 
 > A Vue.js project
-
+> A simple vuejs application that will show different jokes 
 ## Build Setup
 
 ``` bash
